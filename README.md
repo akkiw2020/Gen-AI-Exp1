@@ -83,7 +83,6 @@ development.
 Language Models.
 14. Save the cleaned dataset for future Machine Learning and Generative AI experiments.
 
-Deep Learning Lab Manual by Dr. Sachin Balawant Takmare
 
 Conclusion:
 The experiment successfully demonstrated the complete workflow of understanding and
