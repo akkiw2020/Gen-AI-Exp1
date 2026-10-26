@@ -2,10 +2,12 @@ Experiment No. 1
 
 Title: Comprehensive Dataset Analysis and Preprocessing for Generative AI using Python
 Libraries. (Understanding Any Dataset Like a Data Scientist using Python Libraries)
+
 Aim: To understand, explore, preprocess, and analyze any dataset like a Data Scientist using
 essential Python libraries including NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn,
 TensorFlow, Keras, PyTorch, and LangChain, and prepare high-quality datasets for
 Generative AI and Machine Learning applications.
+
 Objectives:
 1. Understand the complete workflow of dataset analysis followed by professional Data
 Scientists.
@@ -27,6 +29,7 @@ and file handling).
 3. Familiarity with NumPy arrays and Python libraries.
 4. Basic knowledge of Artificial Intelligence and Machine Learning concepts.
 5. Understanding of Python package installation using pip.
+   
 Theory:
 Data is considered the fuel of Artificial Intelligence. Every Machine Learning, Deep
 Learning, and Generative AI model learns from data. However, real-world datasets are rarely
@@ -61,6 +64,7 @@ Understanding datasets thoroughly before model development significantly improve
 prediction accuracy, reduces model bias, minimizes training time, and leads to better
 decision-making. This workflow represents the standard approach followed by professional
 Data Scientists and AI Engineers in industry.
+
 Procedure:
 1. Import all the required Python libraries.
 2. Load the dataset using Pandas.
@@ -80,6 +84,7 @@ Language Models.
 14. Save the cleaned dataset for future Machine Learning and Generative AI experiments.
 
 Deep Learning Lab Manual by Dr. Sachin Balawant Takmare
+
 Conclusion:
 The experiment successfully demonstrated the complete workflow of understanding and
 preparing a dataset like a professional Data Scientist. Students learned how to inspect
